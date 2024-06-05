@@ -1,4 +1,4 @@
-# Wireguard Dynamic DNS Update
+# Wireguard Dynamic DNS Endpoint Update
 
 * Using ISC binds dynamic DNS to resolve your wg endpoint DNS names to IPv4
   addresses requires updating Wireguards endpoint configuration on a tight
