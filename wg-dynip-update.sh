@@ -1,4 +1,6 @@
 #! /bin/bash
+# Copyright 2023, 2024 N. Radtke
+# License: GPLv2
 
 declare -a DNS_SRV;
 ### Change or add you favourite DNS servers here
